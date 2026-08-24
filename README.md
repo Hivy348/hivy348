@@ -37,7 +37,7 @@ Back-end ────────────────┤
 
 <div align="center">🌐 Desenvolvimento Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>⚙️ Back-end e APIs
+<img src="https://skillicons.dev/icons?i=html,css,python&theme=dark"/>⚙️ Back-end e APIs
 
 <img src="https://skillicons.dev/icons?i=windows,git,github&theme=dark"/></div>---
 
