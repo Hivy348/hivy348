@@ -50,7 +50,7 @@ Visual Studio Code
 
 Git / GitHub
 
-</td><td align="center" width="160">🐧 Sistema
+</td><td align="center" width="160"> Sistema
 
 Windows
 
