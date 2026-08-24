@@ -1,5 +1,3 @@
-⚡ SISTEMA ONLINE // INTERFACE DE DESENVOLVEDORA
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4B0082,100:00FFFF&height=220&section=header&text=HÍVYNNA%20APARECIDA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ENGENHARIA%20DA%20COMPUTAÇÃO%20%7C%20DESENVOLVEDORA%20FULL%20STACK&descAlignY=55&descSize=16" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=%5B+SISTEMA+INICIALIZADO+%5D;%3E+Bem-vindo+ao+meu+GitHub...;%3E+Estudante+de+Engenharia+da+Computação;%3E+Desenvolvedora+Full+Stack+em+formação;%3E+Construindo+%7C+Aprendendo+%7C+Criando;%3E+ACESSO+CONCEDIDO_"/><br><img src="https://komarev.com/ghpvc/?username=Hivy348&label=ACESSOS%20AO%20PERFIL&color=4B0082&style=for-the-badge"/><img src="https://img.shields.io/github/followers/Hivy348?label=SEGUIDORES&style=for-the-badge&color=00FFFF&labelColor=0D1117"/></div>---
 
 "> INICIALIZANDO_PERFIL..."
