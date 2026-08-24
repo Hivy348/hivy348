@@ -39,7 +39,7 @@ Back-end ────────────────┤
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>⚙️ Back-end e APIs
 
-<img src="https://skillicons.dev/icons?i=windows,bash,git&theme=dark"/></div>---
+<img src="https://skillicons.dev/icons?i=windows,git,github&theme=dark"/></div>---
 
 "> FERRAMENTAS_UTILIZADAS"
 
