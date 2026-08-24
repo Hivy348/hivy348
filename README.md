@@ -5,12 +5,12 @@
 ╔════════════════════════════════════════════════════════════╗
 ║                    INFORMAÇÕES DO SISTEMA                 ║
 ╠════════════════════════════════════════════════════════════╣
-║ USUÁRIA      :: Hivy348                                   ║
-║ FUNÇÃO       :: ESTUDANTE DE ENGENHARIA DA COMPUTAÇÃO     ║
-║ FOCO         :: DESENVOLVIMENTO FULL STACK                ║
-║ STATUS       :: [ ONLINE ]                                ║
-║ MODO         :: CONSTRUIR / APRENDER / CRIAR              ║
-║ SISTEMA      :: WEB + SOFTWARE                            ║
+║ USUÁRIO      : Hivy348                                   ║
+║ FUNÇÃO       : ESTUDANTE DE ENGENHARIA DA COMPUTAÇÃO     ║
+║ FOCO         : DESENVOLVIMENTO FULL STACK                ║
+║ STATUS       : [ ONLINE ]                                ║
+║ MODO         : CONSTRUIR / APRENDER / CRIAR              ║
+║ SISTEMA      : WEB + SOFTWARE                            ║
 ╚════════════════════════════════════════════════════════════╝
 
 ---
