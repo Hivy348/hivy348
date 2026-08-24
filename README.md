@@ -37,11 +37,9 @@ Back-end ────────────────┤
 
 <div align="center">🌐 Desenvolvimento Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>⚙️ Back-end e APIs
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>⚙️ Back-end e APIs
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/>🛠️ Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git&theme=dark"/></div>---
+<img src="https://skillicons.dev/icons?i=windows,bash,git&theme=dark"/></div>---
 
 "> FERRAMENTAS_UTILIZADAS"
 
