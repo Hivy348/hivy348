@@ -60,14 +60,14 @@ Windows
 🚀 Projetos em Destaque
 
 Projeto| Descrição| Tecnologias
-🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS  <br> 
-<a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank"><\a>
-⚙️ Projeto 02| Projeto Sistema de Pedágio| Python <br> 
-<a href="#"><\a>
-📊 Projeto 03| Projeto de Lista de Tarefas| Python <br>  
-<a href="#"><\a>
-🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS <br>
-<a href="#"><\a>
+🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS 
+<a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank"></a>
+⚙️ Projeto 02| Projeto Sistema de Pedágio| Python  
+<a href="#"></a>
+📊 Projeto 03| Projeto de Lista de Tarefas| Python  
+<a href="#"></a>
+🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS 
+<a href="#"></a>
 
 ---
 
