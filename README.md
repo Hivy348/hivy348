@@ -103,9 +103,13 @@ STATUS DA MISSÃO:
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
 </a><a href="mailto:SEU_EMAIL">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
-</a></div>---
+</a></div>
 
-<div align="center">╔══════════════════════════════════════════════════════════╗
+---
+
+<div align="center">
+``` text
+╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║          "CONSTRUA O FUTURO. UMA LINHA POR VEZ."         ║
 ║                                                          ║
@@ -113,7 +117,7 @@ STATUS DA MISSÃO:
 ║                         ONLINE                           ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-
+```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:4B0082,100:0D1117&height=120&section=footer"/><sub>⚡ Desenvolvido com código • curiosidade • aprendizado • e um pouco de cyberpunk</sub>
 
 </div>
