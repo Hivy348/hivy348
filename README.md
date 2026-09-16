@@ -29,7 +29,7 @@ Gosto de transformar ideias em aplicações funcionais, entender como os sistema
 <div align="center">
   <pre>
     Front-end ───────────────┐
-                                          ├──► FULL STACK
+                                           ├──► FULL STACK
     Back-end ────────────────┤
   </pre>
  
@@ -39,11 +39,14 @@ Gosto de transformar ideias em aplicações funcionais, entender como os sistema
 
 "> PILHA_DE_TECNOLOGIAS"
 
-<div align="center">🌐 Desenvolvimento Front-end
+<div align="center">🌐 Desenvolvimento Front-end <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python&theme=dark"/>⚙️ Back-end e APIs
+<img src="https://skillicons.dev/icons?i=html,css,python&theme=dark"/>⚙️ Back-end e APIs <br>
 
-<img src="https://skillicons.dev/icons?i=windows,git,github&theme=dark"/></div>---
+<img src="https://skillicons.dev/icons?i=windows,git,github&theme=dark"/>
+</div>
+
+---
 
 "> FERRAMENTAS_UTILIZADAS"
 
