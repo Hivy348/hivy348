@@ -25,12 +25,10 @@ Atualmente estou construindo minha trajetória para me tornar uma Desenvolvedora
 
 Gosto de transformar ideias em aplicações funcionais, entender como os sistemas funcionam por trás das interfaces e aprender tecnologias que me permitam desenvolver soluções completas.
 
-<pre>
 Front-end ───────────────┐
                          ├──► FULL STACK
 Back-end ────────────────┤
-<\pre>
-  
+ 
 </div>---
 
 "> PILHA_DE_TECNOLOGIAS"
