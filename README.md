@@ -57,19 +57,18 @@ Windows
 
 "> BANCO_DE_PROJETOS"
 
-<div>
 🚀 Projetos em Destaque
 
 Projeto| Descrição| Tecnologias
-🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS   
+🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS  <br> 
 <a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank"><\a>
-⚙️ Projeto 02| Projeto Sistema de Pedágio| Python  
+⚙️ Projeto 02| Projeto Sistema de Pedágio| Python <br> 
 <a href="#"><\a>
-📊 Projeto 03| Projeto de Lista de Tarefas| Python  
+📊 Projeto 03| Projeto de Lista de Tarefas| Python <br>  
 <a href="#"><\a>
-🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS  
+🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS <br>
 <a href="#"><\a>
-<\div>
+
 ---
 
 "> MISSÃO_ATUAL"
