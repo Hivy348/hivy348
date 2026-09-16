@@ -80,12 +80,12 @@ Windows
 
 "> MISSÃO_ATUAL"
 
-$ ./objetivos_atuais.sh
+$ ./objetivos_atuais.sh <br>
 
-[01] ██████░░░░░░░░ DESENVOLVIMENTO FULL STACK
-[02] ███████░░░░░░░░ FRONT- END
-[02] ████████░░░░░░░░  BACK-END
-[03] █████████░░░░░░░░░░░  INGLÊS INTERMEDIÁRIO
+[01] ██████░░░░░░░░ DESENVOLVIMENTO FULL STACK <br>
+[02] ███████░░░░░░░░ FRONT- END <br>
+[03] ████████░░░░░░░░  BACK-END <br>
+[04] █████████░░░░░░░░░░░  INGLÊS INTERMEDIÁRIO <br>
 
 STATUS DA MISSÃO:
 
