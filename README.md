@@ -103,7 +103,7 @@ STATUS DA MISSÃO:
 
 "> REDES_SOCIAIS"
 
-<div align="center"><a href="www.linkedin.com/in/hívynna-aparecida-8a9800377" target="_blank">
+<div align="center"><a href="https://www.linkedin.com/in/h%C3%ADvynna-aparecida-8a9800377/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/></div>
 
 ---
