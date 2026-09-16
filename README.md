@@ -72,7 +72,7 @@ Projeto| Descrição| Tecnologias <br>
 <a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank">Projeto 01- Portfólio Pessoal</a>
 <br> ⚙️ Projeto 02| Projeto Sistema de Pedágio| Python  <br>
 <a href="#">Projeto 02- Sistema de Pedágio</a>
-<br>📊 Projeto 03| Projeto de Lista de Tarefas| Python <br>  
+<br>📊 Projeto 03| Projeto de Lista de Tarefas| Python  <br>
 <a href="#">Projeto 03-Lista de Tarefas</a>
 <br>🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS <br>
 <a href="#">Projeto 04- Sistema de Login e Cadastro com temática de Flores</a>
