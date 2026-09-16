@@ -107,15 +107,17 @@ STATUS DA MISSÃO:
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║          "CONSTRUA O FUTURO. UMA LINHA POR VEZ."         ║
-║                                                          ║
-║                    STATUS DO SISTEMA:                    ║
-║                         ONLINE                           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<div>
+  <pre>
+    ╔══════════════════════════════════════════════════════════╗
+    ║                                                          ║
+    ║          "CONSTRUA O FUTURO. UMA LINHA POR VEZ."         ║
+    ║                                                          ║
+    ║                    STATUS DO SISTEMA:                    ║
+    ║                         ONLINE                           ║
+    ║                                                          ║
+    ╚══════════════════════════════════════════════════════════╝
+  </pre>
+</div>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:4B0082,100:0D1117&height=120&section=footer"/><sub>⚡ Desenvolvido com código • curiosidade • aprendizado • e um pouco de cyberpunk</sub>
