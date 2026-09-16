@@ -60,8 +60,8 @@ Windows
 🚀 Projetos em Destaque
 
 Projeto| Descrição| Tecnologias
-🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS 
-<a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank"></a>
+🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS <br>
+<a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank">Projeto 01- Portfólio Pessoal</a>
 ⚙️ Projeto 02| Projeto Sistema de Pedágio| Python  
 <a href="#"></a>
 📊 Projeto 03| Projeto de Lista de Tarefas| Python  
