@@ -27,6 +27,7 @@ Gosto de transformar ideias em aplicações funcionais, entender como os sistema
 
 Front-end ───────────────┐
                          ├──► FULL STACK
+                         
 Back-end ────────────────┤
 
 </div>---
@@ -57,7 +58,7 @@ Windows
 
 "> BANCO_DE_PROJETOS"
 
-<div align="center"><a href="#">
+<div align="center">Portfólio Pessoal<a href="https://hivy348.github.io/Meu-portf-lio-dev/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hivy348&repo=PORTFÓLIO_PESSOAL_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2"/>
 </a><a href="#">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hivy348&repo=LISTA_DE_TAREFAS_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2"/>
