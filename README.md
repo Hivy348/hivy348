@@ -57,20 +57,19 @@ Windows
 
 "> BANCO_DE_PROJETOS"
 
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hivy348&repo=LISTA_DE_TAREFAS_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2"/>
-</a></div>🚀 Projetos em Destaque
+<div>
+🚀 Projetos em Destaque
 
 Projeto| Descrição| Tecnologias
-🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS 
+🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS   
 <a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank"><\a>
-⚙️ Projeto 02| Projeto Sistema de Pedágio| Python 
+⚙️ Projeto 02| Projeto Sistema de Pedágio| Python  
 <a href="#"><\a>
-📊 Projeto 03| Projeto de Lista de Tarefas| Python
+📊 Projeto 03| Projeto de Lista de Tarefas| Python  
 <a href="#"><\a>
-🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS
+🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS  
 <a href="#"><\a>
-
+<\div>
 ---
 
 "> MISSÃO_ATUAL"
