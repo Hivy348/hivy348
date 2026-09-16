@@ -24,12 +24,20 @@ Sou apaixonada por programação, desenvolvimento web e tecnologia.
 Atualmente estou construindo minha trajetória para me tornar uma Desenvolvedora Full Stack, explorando tanto o desenvolvimento Front-end quanto Back-end. Sou um pouco comunicativa, adoro aprender cada dia um pouco mais sobre tecnologia, busco sempre melhorar minhas competências e aprendizados.
 
 Gosto de transformar ideias em aplicações funcionais, entender como os sistemas funcionam por trás das interfaces e aprender tecnologias que me permitam desenvolver soluções completas.
+</div>
 
-Front-end ───────────────┐
-                         ├──► FULL STACK
-Back-end ────────────────┤
+---
+
+<div align="center">
+  <pre>
+    Front-end ───────────────┐
+                             ├──► FULL STACK
+    Back-end ────────────────┤
+  </pre>
  
-</div>---
+</div>
+
+---
 
 "> PILHA_DE_TECNOLOGIAS"
 
@@ -59,15 +67,15 @@ Windows
 
 🚀 Projetos em Destaque
 
-Projeto| Descrição| Tecnologias
+Projeto| Descrição| Tecnologias <br>
 🤖 Projeto 01| Aplicação web / Portfólio Pessoal| HTML • CSS <br>
 <a href="https://hivy348.github.io/Meu-portf-lio-dev/" target="_blank">Projeto 01- Portfólio Pessoal</a>
-⚙️ Projeto 02| Projeto Sistema de Pedágio| Python  
-<a href="#"></a>
-📊 Projeto 03| Projeto de Lista de Tarefas| Python  
-<a href="#"></a>
-🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS 
-<a href="#"></a>
+⚙️ Projeto 02| Projeto Sistema de Pedágio| Python  <br>
+<a href="#">Projeto 02- Sistema de Pedágio</a>
+📊 Projeto 03| Projeto de Lista de Tarefas| Python <br>  
+<a href="#">Projeto 03-Lista de Tarefas</a>
+🌐 Projeto 04| Sistema de Login e Cadastro com temática de Flores| HTML • CSS <br>
+<a href="#">Projeto 04- Sistema de Login e Cadastro com temática de Flores</a>
 
 ---
 
