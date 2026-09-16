@@ -29,7 +29,7 @@ Gosto de transformar ideias em aplicações funcionais, entender como os sistema
 <div align="center">
   <pre>
     Front-end ───────────────┐
-                                     ├──► FULL STACK
+                                          ├──► FULL STACK
     Back-end ────────────────┤
   </pre>
  
